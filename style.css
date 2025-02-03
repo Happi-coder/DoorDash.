@@ -1,0 +1,457 @@
+body {
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.first {
+  background-image: url("images/background.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  z-index: 1;
+
+}
+
+.bord1 {
+border-radius: 20px;
+width: 83px;
+height: 37px;
+margin: 20px 8px 15px;
+float: right;
+border: #e81a00;
+background: #e81a00;
+color: white;
+font-size: 18px; 
+}
+
+.bord2 {
+  border-radius: 20px;
+  width: 86px;
+  height: 41px;
+  margin-right:  45px;
+  margin-top: 20px;
+  margin-bottom: 15px;
+
+  float: right;
+  border: #ffffff;
+  background: #ffffff;
+  color: #6a6e64;
+font-size: 18px; 
+  
+  }
+
+
+.dis{text-align: center;
+  
+  padding:240px 0 200px;
+}
+.dis h2 {
+    font-size: 40px;
+    color: #fff;
+    font-weight: 750;
+    text-transform: initial;
+    margin-bottom: 15px;
+   
+}
+
+
+.welcome-btn {
+  display: inline-block;
+  width: 260px;
+  height: 35px;
+  background: #fbfbfc;
+  border: white;
+  color: black;
+  border-radius: 40px;
+  margin-top: 15px;
+  -webkit-transition: .3s linear; 
+  -moz-transition:.3s linear; 
+  -ms-transition:.3s linear; 
+  -o-transition:.3s linear;
+  transition: .3s linear;
+}
+.welcome-btn:hover{
+  background: #ffffff;
+}
+
+
+.welcom {
+  display: inline-block;
+  width: 340px;
+  height: 50px;
+  background: #fbfbfc;
+  border: white;
+  color: rgb(7, 7, 7);
+  border-radius: 40px;
+  margin-top: 0px;
+  text-align: center;
+  -webkit-transition: .3s linear; 
+  -moz-transition:.3s linear; 
+  -ms-transition:.3s linear; 
+  -o-transition:.3s linear;
+  transition: .3s linear;
+}
+
+
+* {
+  box-sizing: border-box;
+}
+
+
+.gallery {
+  float: left;
+  width: 210px;
+  margin: 97px 114px 92px;
+
+}
+
+.gallery img {
+  width: 100%;
+  height: auto;
+}
+
+.desc {
+  padding: 15px;
+  text-align: center;
+  
+}
+
+.container {
+ float: right;
+ margin-right: 60px;
+ margin-top: 35px;
+margin-bottom: 0%;
+  }
+
+  .ig {
+    float: left;
+    margin-left: 70px;
+    margin-top: 170px;
+    line-height: 40px;
+    text-align: justify;
+    
+  }
+
+  .bord3 {
+    border-radius: 20px;
+    width: 139px;
+    height: 45px;
+    float: left;
+    border: #e81a00;
+    background: #e81a00;
+    color: white;
+    padding: 6px;
+    font-size: 16px; 
+    
+    }
+
+    .contain {
+      float: left;
+      margin-left: 60px;
+      margin-top: 35px;
+     
+      
+       }
+       .contai {
+        float: right;
+        margin-right: 60px;
+        margin-top: 90px;
+        padding: 10px;
+         }
+     
+         .conta {
+          float: left;
+          margin-left: 60px;
+          margin-top: 190px;
+          text-align: center;
+          padding: 10px;
+          
+           }
+
+           .cont {
+            text-align: center;
+          
+             }
+
+       .gala {
+         float: right;
+        margin-left: 50px;
+         margin-top: 90px;
+         line-height: 40px;
+         text-align: justify;
+         
+       }
+
+       .second {
+        margin-top: auto;
+        background-image: url("images/nice.jpg");
+        background-repeat: no-repeat;
+        background-position: center;
+        background-size: cover;
+        z-index: 1;
+        background-color: rgba(14, 13, 13, 0.815); /* Adjust the color and opacity here */
+        background-blend-mode: overlay;
+        height: 700px;
+      }
+
+      
+
+
+      .bord4 {
+        border-radius: 20px;
+        width: 139px;
+        height: 40px;
+        align-items: center;
+        border: #e81a00;
+        background: #e81a00;
+        color: white;
+        padding: 6px;
+        font-size: 16px; 
+        
+        }
+
+
+        .di{text-align: center;
+  
+          padding:170px 0 200px;
+        }
+
+
+        .di .hat {
+            font-size: 40px;
+            color: #fff;
+            font-weight: 750;
+            text-transform: initial;
+            margin-bottom: 15px;
+           
+        }
+        
+      
+        .bord5 {
+          border-radius: 20px;
+          width: 99px;
+          height: 39px;
+          float: left;
+          border: #e81a00;
+          background: #e81a00;
+          color: white;
+          padding: 6px;
+          font-size: 16px; 
+        }
+
+        * {
+          box-sizing: border-box;
+        }
+        
+
+        .gall {
+          float: left;
+          width: 460px;
+          margin-top: 37px;
+          margin-left: 110px;
+        }
+        
+        .gall img {
+          width: 530px;
+          height: 550px;
+        }
+        
+        .galler {
+          float: right;
+          width: 460px;
+          margin-right:  172px;
+          margin-top: 37px;
+        
+        }
+        
+        .galler img {
+          width: 530px;
+          height: 550px;
+        }
+
+
+        .bord6 {
+          border-radius: 30px;
+          width: 162px;
+          height: 45px;
+          border: #e81a00;
+          background: #e81a00;
+          color: white;
+          padding: 6px;
+          font-size: 15px; 
+        }
+
+        .bord7 {
+          border-radius: 20px;
+          width: 137px;
+          height: 40px;
+          border: #e81a00;
+          background: #e81a00;
+          color: white;
+          padding: 6px;
+          font-size: 15px; 
+        }
+        
+        .galli {
+          float: right;
+          width: 400px;
+          margin-top: 137px;
+          margin-right: 238px;
+        }
+        
+        .galli img {
+          width: 530px;
+          height: 550px;
+        }
+        
+        .gal {
+          float: left;
+          width: 400px;
+          margin-left:  108px;
+          margin-top: 55px;
+        
+        }
+        
+        .gal img {
+          width: 530px;
+          height: 550px;
+        }
+
+
+
+
+        .navigation-bar {
+          width: 100%;  
+          height: 50px; 
+          background: transparent;
+          position: fixed;
+          animation: mymove 43s infinite;
+      }
+
+      .logo {
+        width: 210px;
+        height: 24px;
+        margin-left: 560px;
+        margin-top: 15px;
+       }
+
+
+      @keyframes mymove {
+        from {top: 0px;}
+        to {top: 0px; background: rgb(181, 187, 181);}
+      }
+
+
+      .tab {
+        border-collapse: collapse;
+        width: 85%;
+        margin-left: 50px;
+        margin-bottom: 50px;
+      }
+      
+      .tad{
+        font-weight: 500;
+        text-align: center;
+        padding: 8px;
+      }
+      .tah  {
+        text-align: center;
+        padding: 8px;
+      }
+      
+   
+      .tah {
+        border-bottom: 1px solid #c5c4c4;
+        width: 10px;
+        color: #4b4d4c;
+      }
+
+     .active {
+        border-bottom: 2px solid #4b4d4c;
+        color: black;
+
+      }
+      .pop{
+        color: #fff;
+        font-size: 15px;
+       
+      }
+
+      * {
+        box-sizing: border-box;
+      }
+      
+      
+      .foot {
+        float: left;
+        width: 210px;
+        margin: 0px 60px 0px;
+        color: #c3cac2;
+        font-size: 14px;
+        font-weight: 500;
+      }
+
+      .fot {
+        float: left;
+        width: 210px;
+        color: #c3cac2;
+        font-size: 14px;
+        font-weight: 500;
+      }
+
+
+      
+.butt1 {
+  border-radius: 5px;
+  width: 167px;
+  height: 71px;
+  margin-top: 5px;
+  margin-bottom: 15px;
+  margin-right: 130px;
+  float: right;
+  border: #3b3b3b;
+  background: #3b3b3b;
+  color:#bebebe;
+  font-size: 7px; 
+  }
+  
+  .butt2 {
+    border-radius: 5px;
+    width: 167px;
+    height: 71px;
+    margin-right:  134px;
+    margin-top: 20px;
+    margin-bottom: 0px;
+    float: right;
+    border: #3b3b3b;
+    background: #3b3b3b;
+    color: #bebebe;
+  font-size: 12px; 
+    
+    }
+
+    .inl {
+      background-color: #191919; 
+      list-style-type: none;
+      text-align: center;
+      margin: 0;
+      padding: 0;
+      text-align: left;
+      color: #c3cac2;
+      font-weight: 500;
+    }
+    
+    .inl li {
+      display: inline-block;
+      font-size: 13px;
+      padding: 5px;
+      list-style-type: none;
+    }
+    .lang{
+      border-color: black;
+      border-width: 1px;
+      width: 130px;
+      border-radius: 50px;
+      height: 35px;
+     margin: 5px 25px 5px;
+     text-align: center;
+    }
